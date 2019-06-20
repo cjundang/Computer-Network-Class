@@ -1,21 +1,7 @@
 # Computer Network
-Lab Instruction ของรายวิชา Computer Network และ Internet Technology 
+## คำอธฺบายรายวิชา
+หลักการพื้นฐานของระบบเครือข่ายคอมพิวเตอร์ โปรโตคอลระบบเครือข่ายคอมพิวเตอร์ รูปแบบมาตรฐานของระบบเครือข่ายคอมพิวเตอร์ สื่อและการรับส่งสัญญาณเบื้องต้น ระบบโครงข่ายคอมพิวเตอร์ท้องถิ่น การออกแบบระบบเครือข่ายเบื้องต้น เราท์ติงโปรโตคอลและความปลอดภัยของระบบเครือข่ายเบื้องต้น
+Computer Networks fundamental; networking protocol; standard network model (OSI/TCP/IP); basic concepts of signaling and communication media; local area network (LAN); basic network design; routing protocol and basic network security concepts.
+## วัตถุประสงค์
 
-
-```php
-// traditional markdown and parse full text
-$parser = new \cebe\markdown\Markdown();
-echo $parser->parse($markdown);
-
-// use github markdown
-$parser = new \cebe\markdown\GithubMarkdown();
-echo $parser->parse($markdown);
-
-// use markdown extra
-$parser = new \cebe\markdown\MarkdownExtra();
-echo $parser->parse($markdown);
-
-// parse only inline elements (useful for one-line descriptions)
-$parser = new \cebe\markdown\GithubMarkdown();
-echo $parser->parseParagraph($markdown);
-```
+## หัวข้อ
