@@ -4,9 +4,8 @@
 
 Computer Networks fundamental; networking protocol; standard network model (OSI/TCP/IP); basic concepts of signaling and communication media; local area network (LAN); basic network design; routing protocol and basic network security concepts.
 ## วัตถุประสงค์
-1. เพื่อ
-2. เพื่อ
-3. เพื่อ
+1. เพื่อให้ผู้เรียนจำและเข้าใจหลักการเบื้องต้นของเครือข่ายคอมพิวเตอร์ได้
+2. เพื่อให้นักศึกษาสามารถออกแบบและพัฒนาเครือข่ายคอมพิวเตอร์สำหรับองค์กรขนาดเล็กได้
 ## หัวข้อ
 1. Introduction to Computer Network Data Communication
 2. Network Architecture
