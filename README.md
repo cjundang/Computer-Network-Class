@@ -8,4 +8,12 @@ Computer Networks fundamental; networking protocol; standard network model (OSI/
 2. เพื่อ
 3. เพื่อ
 ## หัวข้อ
-i
+1. Introduction to Computer Network Data Communication
+2. Network Architecture
+3. Application Layer
+4. Reliable Protocol
+5. Basic Network Security Concepts
+## อบรมเชิงปฏิบัติการ
+1. Network OS management with Linux (5 Hours)
+2. Micro-services with Docker (5 Hours)
+3. Network Design and Implementation with CISCO devices (10 Hours)
