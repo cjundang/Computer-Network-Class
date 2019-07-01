@@ -1,12 +1,12 @@
 # Computer Network
-## Course description
+### Course description
 Computer Networks fundamental; networking protocol; standard network model (OSI/TCP/IP); basic concepts of signaling and communication media; local area network (LAN); basic network design; routing protocol and basic network security concepts.
-## Learning outcome
+### Learning outcome
 1.  To remember and understand the concept of computer network in context of software engineering.
 2. To design and implement the simple and intermediat netwrok size. 
 
-## Topics
-1. [Introduction to computer Network](#m1-introduction-to-computer-network)
+### Topics
+1. [Introduction to computer Network](#introduction-to-computer-network)
 2. Network Architecture
 3. Application Layer
 4. Reliable Protocol
@@ -31,4 +31,8 @@ Computer Networks fundamental; networking protocol; standard network model (OSI/
 
 Computer Networks fundamental; networking protocol; standard network model (OSI/TCP/IP); basic concepts of signaling and communication media; local area network (LAN); basic network design; routing protocol and basic network security concepts.
 
-## M1 Introduction to computer network 
+## Introduction to computer network 
+## Network Architecture
+## Application Layer
+## Reliable Protocol
+## Basic Network Security Concepts
