@@ -7,7 +7,7 @@ Computer Networks fundamental; networking protocol; standard network model (OSI/
 1. เพื่อให้ผู้เรียนจำและเข้าใจหลักการเบื้องต้นของเครือข่ายคอมพิวเตอร์ได้
 2. เพื่อให้นักศึกษาสามารถออกแบบและพัฒนาเครือข่ายคอมพิวเตอร์สำหรับองค์กรขนาดเล็กได้
 ## หัวข้อ
-1.  [Introduction to Computer Network Data Communication](IntrotoNetwork.md)
+1.  [Introduction to Computer Network Data Communication](keypoint/IntrotoNetwork.md)
 2. Network Architecture
 3. Application Layer
 4. Reliable Protocol
