@@ -12,24 +12,10 @@ Computer Networks fundamental; networking protocol; standard network model (OSI/
 4. Reliable Protocol
 5. Basic Network Security Concepts
 
-## Workshop
+### Workshop
 1. Network OS management with Linux (5 Hours)
 2. Micro-services with Docker (5 Hours)
 3. Network Design and Implementation with CISCO devices (10 Hours)
-
-Computer Networks fundamental; networking protocol; standard network model (OSI/TCP/IP); basic concepts of signaling and communication media; local area network (LAN); basic network design; routing protocol and basic network security concepts.
-
-Computer Networks fundamental; networking protocol; standard network model (OSI/TCP/IP); basic concepts of signaling and communication media; local area network (LAN); basic network design; routing protocol and basic network security concepts.
-
-Computer Networks fundamental; networking protocol; standard network model (OSI/TCP/IP); basic concepts of signaling and communication media; local area network (LAN); basic network design; routing protocol and basic network security concepts.
-
-Computer Networks fundamental; networking protocol; standard network model (OSI/TCP/IP); basic concepts of signaling and communication media; local area network (LAN); basic network design; routing protocol and basic network security concepts.
-
-Computer Networks fundamental; networking protocol; standard network model (OSI/TCP/IP); basic concepts of signaling and communication media; local area network (LAN); basic network design; routing protocol and basic network security concepts.
-
-Computer Networks fundamental; networking protocol; standard network model (OSI/TCP/IP); basic concepts of signaling and communication media; local area network (LAN); basic network design; routing protocol and basic network security concepts.
-
-Computer Networks fundamental; networking protocol; standard network model (OSI/TCP/IP); basic concepts of signaling and communication media; local area network (LAN); basic network design; routing protocol and basic network security concepts.
 
 ## Introduction to computer network 
 ## Network Architecture
