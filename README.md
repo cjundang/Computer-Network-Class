@@ -11,7 +11,6 @@ Computer Networks fundamental; networking protocol; standard network model (OSI/
 1. [Layer Architecture](#layer-architecture)
 1. [Application Layer](#application-layer)
 1. [Reliable Communication](#reliable-communication)
-1. [LAN Technology](#lan-technology)
 1. [Basic Network Security Concepts](#basic-network-security-concepts)
 
 ### __Workshop__
@@ -105,3 +104,15 @@ This topics consists of Process-to-Process Communication, Addressing, Port and S
 | 7. TCP Communication | <a href="http://www.youtube.com/watch?v=sgCROjAkpe8" target="_blank"><img src="http://img.youtube.com/vi/sgCROjAkpe8/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | N/A |
 
 
+
+## Basic Network Security Concepts
+
+
+### Resources
+| Topics     | Youtube |Quiz | Due Date |
+| :-------------------------- |:--------------------------:| ------------------:|:---:|
+| 1. What is security? | <a href="http://www.youtube.com/watch?v=3ygWqvAHYyU" target="_blank"><img src="http://img.youtube.com/vi/3ygWqvAHYyU/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | N/A |
+| 2. threats | <a href="http://www.youtube.com/watch?v=KkMQM64aHJc" target="_blank"><img src="http://img.youtube.com/vi/KkMQM64aHJc/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | N/A |
+| 3. security challenge and objectives | <a href="http://www.youtube.com/watch?v=W1upGmI0GVw" target="_blank"><img src="http://img.youtube.com/vi/qOFuUhLjpZA/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | N/A |
+| 4. Protection | <a href="http://www.youtube.com/watch?v=fL1Bq64QtaY" target="_blank"><img src="http://img.youtube.com/vi/fL1Bq64QtaY/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | N/A |
+| 5. application security | <a href="http://www.youtube.com/watch?v=1U5s50rP7Gs" target="_blank"><img src="http://img.youtube.com/vi/1U5s50rP7Gs/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | N/A |
