@@ -52,3 +52,19 @@ This topic consist of definition, source/destication component, data component, 
 | 3. data component | <a href="http://www.youtube.com/watch?v=BpvA_JOqOyw" target="_blank"><img src="http://img.youtube.com/vi/BpvA_JOqOyw/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
 | 4. channel component | <a href="http://www.youtube.com/watch?v=1vs9UriLahE" target="_blank"><img src="http://img.youtube.com/vi/1vs9UriLahE/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
  
+
+## Layer Architecture
+This topic consist of layer architecture, OSI Model, data link layer, network layer, encapsulation, network access layer, Intenet layer.
+
+
+### Resources
+| Topics     | Youtube |Quiz | Due Date |
+| :-------------------------- |:--------------------------:| ------------------:|:---:|
+| 1. layer architecture | <a href="http://www.youtube.com/watch?v=unBMc1n4LKQ" target="_blank"><img src="http://img.youtube.com/vi/unBMc1n4LKQ/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | N/A |
+| 2. OSI Model| <a href="http://www.youtube.com/watch?v=O9WOzRlJOrw" target="_blank"><img src="http://img.youtube.com/vi/O9WOzRlJOrw/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | N/A |
+| 3. data link layer | <a href="http://www.youtube.com/watch?v=uCfCXquL8Fw" target="_blank"><img src="http://img.youtube.com/vi/uCfCXquL8Fw/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
+| 4. data link layer II | <a href="http://www.youtube.com/watch?v=Gn9FsK1JfAs" target="_blank"><img src="http://img.youtube.com/vi/Gn9FsK1JfAs/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
+| 5. network layer | <a href="http://www.youtube.com/watch?v=Jcz5L_zTGeQ" target="_blank"><img src="http://img.youtube.com/vi/Jcz5L_zTGeQ/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
+| 6. encapsulation| <a href="http://www.youtube.com/watch?v=ZlYACc-3ADc" target="_blank"><img src="http://img.youtube.com/vi/ZlYACc-3ADc/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
+| 7. network access layer| <a href="http://www.youtube.com/watch?v=evas3W5Knks" target="_blank"><img src="http://img.youtube.com/vi/evas3W5Knks/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
+| 8. intenet layer| <a href="http://www.youtube.com/watch?v=onXebo1m37A" target="_blank"><img src="http://img.youtube.com/vi/onXebo1m37A/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
