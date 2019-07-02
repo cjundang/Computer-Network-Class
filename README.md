@@ -8,11 +8,11 @@ Computer Networks fundamental; networking protocol; standard network model (OSI/
 ### __Topics__
 1. [Introduction to computer Network](#introduction-to-computer-network)
 1. [Data Commnication](#data-communication)
-1. [Layer Architecture](lecture/layer-architecture.md)
-1. [Application Layer](lecture/application-layer.md)
-1. [Reliable Communication](lecture/reliable-communication.md)
-1. [LAN Technology](lecture/lan-technology.md)
-1. [Basic Network Security Concepts](lecture/basic-network-security-concepts.md)
+1. [Layer Architecture](#layer-architecture)
+1. [Application Layer](#application-layer)
+1. [Reliable Communication](#reliable-communication)
+1. [LAN Technology](#lan-technology)
+1. [Basic Network Security Concepts](#basic-network-security-concepts)
 
 ### __Workshop__
 1. [Network OS Administration](lab/linuxos.md) - 5 Hours
@@ -87,3 +87,21 @@ This topics consists of web technology, file sharing, and domain name system.
 | 9. domain name system I| <a href="http://www.youtube.com/watch?v=gJQ_Ja7IYsw" target="_blank"><img src="http://img.youtube.com/vi/gJQ_Ja7IYsw/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
 | 10. domain name system II | <a href="http://www.youtube.com/watch?v=N1yF1k1mcr8" target="_blank"><img src="http://img.youtube.com/vi/N1yF1k1mcr8/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
 | 11. domain name system III | <a href="http://www.youtube.com/watch?v=VXuxB_w3-SY" target="_blank"><img src="http://img.youtube.com/vi/VXuxB_w3-SY/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
+
+
+## Reliable Communication
+This topics consists of Process-to-Process Communication, Addressing, Port and Socket Address, Multiplexing, Stream Communication, TCP Segnemnt, Connection Establishment, Transport Control Protocol, User Defined Protocol.
+
+### Resources
+| Topics     | Youtube |Quiz | Due Date |
+| :-------------------------- |:--------------------------:| ------------------:|:---:|
+| 1. Process-to-Process Communication | <a href="http://www.youtube.com/watch?v=W1upGmI0GVw" target="_blank"><img src="http://img.youtube.com/vi/W1upGmI0GVw/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | N/A |
+| 2. Addressing | <a href="http://www.youtube.com/watch?v=2CATY2Vw5JE" target="_blank"><img src="http://img.youtube.com/vi/2CATY2Vw5JE/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | N/A |
+| 2. Addressing | <a href="http://www.youtube.com/watch?v=2CATY2Vw5JE" target="_blank"><img src="http://img.youtube.com/vi/2CATY2Vw5JE/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | N/A |
+| 3. Port and Socket Address | <a href="http://www.youtube.com/watch?v=fF4X3Zuh-CI" target="_blank"><img src="http://img.youtube.com/vi/fF4X3Zuh-CI/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | N/A |
+| 4. Multiplexing | <a href="http://www.youtube.com/watch?v=M4IjrLyMGCU" target="_blank"><img src="http://img.youtube.com/vi/M4IjrLyMGCU/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | N/A |
+| 5. Stream Communication | <a href="http://www.youtube.com/watch?v=b8PngWeL6VA" target="_blank"><img src="http://img.youtube.com/vi/b8PngWeL6VA/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | N/A |
+| 6. TCP Segment | <a href="http://www.youtube.com/watch?v=5bD7HUTvBaY" target="_blank"><img src="http://img.youtube.com/vi/5bD7HUTvBaY/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | N/A |
+| 7. TCP Communication | <a href="http://www.youtube.com/watch?v=sgCROjAkpe8" target="_blank"><img src="http://img.youtube.com/vi/sgCROjAkpe8/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | N/A |
+
+
