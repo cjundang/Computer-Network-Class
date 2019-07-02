@@ -68,3 +68,22 @@ This topic consist of layer architecture, OSI Model, data link layer, network la
 | 6. encapsulation| <a href="http://www.youtube.com/watch?v=ZlYACc-3ADc" target="_blank"><img src="http://img.youtube.com/vi/ZlYACc-3ADc/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
 | 7. network access layer| <a href="http://www.youtube.com/watch?v=evas3W5Knks" target="_blank"><img src="http://img.youtube.com/vi/evas3W5Knks/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
 | 8. intenet layer| <a href="http://www.youtube.com/watch?v=onXebo1m37A" target="_blank"><img src="http://img.youtube.com/vi/onXebo1m37A/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
+
+## Application Layer
+This topics consists of web technology, file sharing, and domain name system.
+
+### Resources
+| Topics     | Youtube |Quiz | Due Date |
+| :-------------------------- |:--------------------------:| ------------------:|:---:|
+| 1. web technology I | <a href="http://www.youtube.com/watch?v=0N4V8yw-Z3A" target="_blank"><img src="http://img.youtube.com/vi/0N4V8yw-Z3A/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | N/A |
+| 2. web technology II | <a href="http://www.youtube.com/watch?v=Rkgjhu_HcM8" target="_blank"><img src="http://img.youtube.com/vi/Rkgjhu_HcM8/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | N/A |
+| 3. web technology III | <a href="http://www.youtube.com/watch?v=EoYXORq4ee0" target="_blank"><img src="http://img.youtube.com/vi/EoYXORq4ee0/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | N/A |
+| 4. web technology IV | <a href="http://www.youtube.com/watch?v=newofmdyprw" target="_blank"><img src="http://img.youtube.com/vi/newofmdyprw/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | N/A |
+| 5. web technology V | <a href="http://www.youtube.com/watch?v=RO-9OsNovQA" target="_blank"><img src="http://img.youtube.com/vi/RO-9OsNovQA/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | N/A |
+| 6. web technology VI | <a href="http://www.youtube.com/watch?v=jWrPiMlFnzQ" target="_blank"><img src="http://img.youtube.com/vi/jWrPiMlFnzQ/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | N/A |
+| 7. web technology VII | <a href="http://www.youtube.com/watch?v=oFEe9BZ1lUc" target="_blank"><img src="http://img.youtube.com/vi/oFEe9BZ1lUc/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | N/A |
+| 8. file sharing I| <a href="http://www.youtube.com/watch?v=AJEqdne6jwg" target="_blank"><img src="http://img.youtube.com/vi/AJEqdne6jwg/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | N/A |
+| 9. file sharing II| <a href="http://www.youtube.com/watch?v=OAbpiZ21W0I" target="_blank"><img src="http://img.youtube.com/vi/OAbpiZ21W0I/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | N/A |
+| 9. domain name system I| <a href="http://www.youtube.com/watch?v=gJQ_Ja7IYsw" target="_blank"><img src="http://img.youtube.com/vi/gJQ_Ja7IYsw/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
+| 10. domain name system II | <a href="http://www.youtube.com/watch?v=N1yF1k1mcr8" target="_blank"><img src="http://img.youtube.com/vi/N1yF1k1mcr8/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
+| 11. domain name system III | <a href="http://www.youtube.com/watch?v=VXuxB_w3-SY" target="_blank"><img src="http://img.youtube.com/vi/VXuxB_w3-SY/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
