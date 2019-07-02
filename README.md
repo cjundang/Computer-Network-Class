@@ -26,9 +26,7 @@ Computer Networks fundamental; networking protocol; standard network model (OSI/
 ### __About Me__
 Chanankorn Jandaeng, Ph.D. School of Informatics, Walailak University, THAILAND.
 
-<hr/>
-
-### __Content__
+# __Content__
 ## Introduction to computer network
 This topic consist of application of internet, internet, standard, network component, network architecture, network categoties, network Topology
 
