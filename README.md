@@ -106,7 +106,7 @@ This topics consists of Process-to-Process Communication, Addressing, Port and S
 
 
 ## Basic Network Security Concepts
-
+This topic talk about what is security?, threats, the security challanges and objective, the security mechanism to protect, and the security of application
 
 ### Resources
 | Topics     | Youtube |Quiz | Due Date |
