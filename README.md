@@ -1,4 +1,4 @@
-# Computer Network
+# __Computer Network__
 ### __Course description__
 Computer Networks fundamental; networking protocol; standard network model (OSI/TCP/IP); basic concepts of signaling and communication media; local area network (LAN); basic network design; routing protocol and basic network security concepts.
 ### __Learning outcome__
@@ -25,3 +25,19 @@ Computer Networks fundamental; networking protocol; standard network model (OSI/
 
 ### __About Me__
 Chanankorn Jandaeng, Ph.D. School of Informatics, Walailak University, THAILAND.
+
+<hr/>
+
+### __Content__
+## Introduction to computer network
+This topic consist of application of internet, internet, standard, network component, network architecture, network categoties, network Topology
+
+### Resources
+| Topics     | Youtube |Quiz | 
+| :-------------------------- |:--------------------------:| ------------------:|
+| 1. application of internet | <a href="http://www.youtube.com/watch?v=uhLS_rEldlY" target="_blank"><img src="http://img.youtube.com/vi/uhLS_rEldlY/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | 
+| 2. internet | <a href="http://www.youtube.com/watch?v=uhLS_rEldlY" target="_blank"><img src="http://img.youtube.com/vi/uhLS_rEldlY/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | 
+| 3. standard | <a href="http://www.youtube.com/watch?v=uhLS_rEldlY" target="_blank"><img src="http://img.youtube.com/vi/uhLS_rEldlY/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | 
+| 4. network component | <a href="http://www.youtube.com/watch?v=uhLS_rEldlY" target="_blank"><img src="http://img.youtube.com/vi/uhLS_rEldlY/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | 
+| 5. network categoties| <a href="http://www.youtube.com/watch?v=uhLS_rEldlY" target="_blank"><img src="http://img.youtube.com/vi/uhLS_rEldlY/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | 
+| 6. network topology | <a href="http://www.youtube.com/watch?v=uhLS_rEldlY" target="_blank"><img src="http://img.youtube.com/vi/uhLS_rEldlY/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | 
