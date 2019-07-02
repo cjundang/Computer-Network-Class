@@ -7,7 +7,7 @@ Computer Networks fundamental; networking protocol; standard network model (OSI/
 
 ### __Topics__
 1. [Introduction to computer Network](#introduction-to-computer-network)
-1. [Data Commnication](lecture/data-communication.md)
+1. [Data Commnication](#data-communication)
 1. [Layer Architecture](lecture/layer-architecture.md)
 1. [Application Layer](lecture/application-layer.md)
 1. [Reliable Communication](lecture/reliable-communication.md)
@@ -39,3 +39,16 @@ This topic consist of application of internet, internet, standard, network compo
 | 4. network component | <a href="http://www.youtube.com/watch?v=Ts6Nsmvko0E" target="_blank"><img src="http://img.youtube.com/vi/Ts6Nsmvko0E/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
 | 5. network categoties| <a href="http://www.youtube.com/watch?v=LhUbE8GEwv8" target="_blank"><img src="http://img.youtube.com/vi/LhUbE8GEwv8/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
 | 6. network topology | <a href="http://www.youtube.com/watch?v=sG8guTwGLEc" target="_blank"><img src="http://img.youtube.com/vi/sG8guTwGLEc/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
+
+
+## Data Communication
+This topic consist of definition, source/destication component, data component, channel component. 
+
+### Resources
+| Topics     | Youtube |Quiz | Due Date |
+| :-------------------------- |:--------------------------:| ------------------:|:---:|
+| 1. definition | <a href="http://www.youtube.com/watch?v=IjftR_knOzc" target="_blank"><img src="http://img.youtube.com/vi/
+| 2. source&destination component | <a href="http://www.youtube.com/watch?v=WaojDpsZ87M" target="_blank"><img src="http://img.youtube.com/vi/WaojDpsZ87M/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | N/A |
+| 3. data component | <a href="http://www.youtube.com/watch?v=BpvA_JOqOyw" target="_blank"><img src="http://img.youtube.com/vi/BpvA_JOqOyw/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
+| 4. channel component | <a href="http://www.youtube.com/watch?v=1vs9UriLahE" target="_blank"><img src="http://img.youtube.com/vi/1vs9UriLahE/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
+ 
