@@ -1,2 +1,0 @@
-## LAN Technology
-comming soon.
