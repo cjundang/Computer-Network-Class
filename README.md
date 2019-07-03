@@ -24,13 +24,9 @@ Computer Networks fundamental; networking protocol; standard network model (OSI/
 
 ### __Who am I__
 
-
-![](img/profile.png =50px)
-
-
 Chanankorn Jandaeng, Ph.D., School of Informatics, Walailak University, THAILAND.
 
-My C.V. download from [here](http://cjundang.ubines.info/cv.pdf)
+My C.V. download from [here](http://cjundang.ubines.info)
 
 FB Page: <a href="https://www.facebook.com/drchanankorn/">DrChanankorn</a>
 
