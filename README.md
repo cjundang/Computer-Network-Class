@@ -39,7 +39,12 @@ This topic consist of application of internet, internet, standard, network compo
 
 ### Instruction 
 - Let all students to complete all contents vai clib on this youtube and complete quiz when you complete each topics.
-
+- How to download youtube file 
+    - From youtube link, add __ss__ before youtube.com such as
+```
+Form: http://www.youtube.com/watch?v=uhLS_rEldlY
+To: http://www.ssyoutube.com/watch?v=uhLS_rEldlY
+```
 
 ### Resources
 | Topics | Youtube |Quiz | Due Date |
