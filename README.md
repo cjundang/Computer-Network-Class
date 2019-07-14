@@ -58,10 +58,10 @@ This topic consist of definition, source/destication component, data component, 
 ### Resources
 | Topics     | Youtube |Quiz | Due Date |
 | :-------------------------- |:--------------------------:| ------------------:|:---:|
-| 1. definition | <a href="http://www.youtube.com/watch?v=IjftR_knOzc" target="_blank"><img src="http://img.youtube.com/vi/IjftR_knOzc/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | N/A |
-| 2. source&destination component | <a href="http://www.youtube.com/watch?v=WaojDpsZ87M" target="_blank"><img src="http://img.youtube.com/vi/WaojDpsZ87M/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | N/A |
-| 3. data component | <a href="http://www.youtube.com/watch?v=BpvA_JOqOyw" target="_blank"><img src="http://img.youtube.com/vi/BpvA_JOqOyw/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
-| 4. channel component | <a href="http://www.youtube.com/watch?v=1vs9UriLahE" target="_blank"><img src="http://img.youtube.com/vi/1vs9UriLahE/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
+| 1. definition (12 min) | <a href="http://www.youtube.com/watch?v=IjftR_knOzc" target="_blank"><img src="http://img.youtube.com/vi/IjftR_knOzc/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | N/A |
+| 2. source&destination component (12 min) | <a href="http://www.youtube.com/watch?v=WaojDpsZ87M" target="_blank"><img src="http://img.youtube.com/vi/WaojDpsZ87M/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | N/A |
+| 3. data component (15 min)| <a href="http://www.youtube.com/watch?v=BpvA_JOqOyw" target="_blank"><img src="http://img.youtube.com/vi/BpvA_JOqOyw/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
+| 4. channel component (19 min) | <a href="http://www.youtube.com/watch?v=1vs9UriLahE" target="_blank"><img src="http://img.youtube.com/vi/1vs9UriLahE/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
  
 
 ## Layer Architecture
