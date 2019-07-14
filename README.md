@@ -37,8 +37,12 @@ FB Page: <a href="https://www.facebook.com/drchanankorn/">DrChanankorn</a>
 ## Introduction to computer network
 This topic consist of application of internet, internet, standard, network component, network architecture, network categoties, network Topology
 
+### Instruction 
+- Let all students to complete all contents vai clib on this youtube and complete quiz when you complete each topics.
+
+
 ### Resources
-| Topics     | Youtube |Quiz | Due Date |
+| Topics | Youtube |Quiz | Due Date |
 | :-------------------------- |:--------------------------:| ------------------:|:---:|
 | 1. application of internet (14 min) | <a href="http://www.youtube.com/watch?v=uhLS_rEldlY" target="_blank"><img src="http://img.youtube.com/vi/uhLS_rEldlY/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | N/A |
 | 2. internet (8 min) | <a href="http://www.youtube.com/watch?v=w7RgSf-tjks" target="_blank"><img src="http://img.youtube.com/vi/w7RgSf-tjks/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
