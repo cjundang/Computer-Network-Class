@@ -40,12 +40,12 @@ This topic consist of application of internet, internet, standard, network compo
 ### Resources
 | Topics     | Youtube |Quiz | Due Date |
 | :-------------------------- |:--------------------------:| ------------------:|:---:|
-| 1. application of internet | <a href="http://www.youtube.com/watch?v=uhLS_rEldlY" target="_blank"><img src="http://img.youtube.com/vi/uhLS_rEldlY/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | N/A |
-| 2. internet | <a href="http://www.youtube.com/watch?v=w7RgSf-tjks" target="_blank"><img src="http://img.youtube.com/vi/w7RgSf-tjks/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
-| 3. standard | <a href="http://www.youtube.com/watch?v=ysafbkzoBCY" target="_blank"><img src="http://img.youtube.com/vi/ysafbkzoBCY/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
-| 4. network component | <a href="http://www.youtube.com/watch?v=Ts6Nsmvko0E" target="_blank"><img src="http://img.youtube.com/vi/Ts6Nsmvko0E/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
-| 5. network categoties| <a href="http://www.youtube.com/watch?v=LhUbE8GEwv8" target="_blank"><img src="http://img.youtube.com/vi/LhUbE8GEwv8/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
-| 6. network topology | <a href="http://www.youtube.com/watch?v=sG8guTwGLEc" target="_blank"><img src="http://img.youtube.com/vi/sG8guTwGLEc/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
+| 1. application of internet (14 min) | <a href="http://www.youtube.com/watch?v=uhLS_rEldlY" target="_blank"><img src="http://img.youtube.com/vi/uhLS_rEldlY/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | N/A |
+| 2. internet (8 min) | <a href="http://www.youtube.com/watch?v=w7RgSf-tjks" target="_blank"><img src="http://img.youtube.com/vi/w7RgSf-tjks/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
+| 3. standard (8 min)| <a href="http://www.youtube.com/watch?v=ysafbkzoBCY" target="_blank"><img src="http://img.youtube.com/vi/ysafbkzoBCY/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
+| 4. network component (10 min)| <a href="http://www.youtube.com/watch?v=Ts6Nsmvko0E" target="_blank"><img src="http://img.youtube.com/vi/Ts6Nsmvko0E/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
+| 5. network categoties (15 min)| <a href="http://www.youtube.com/watch?v=LhUbE8GEwv8" target="_blank"><img src="http://img.youtube.com/vi/LhUbE8GEwv8/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
+| 6. network topology (7 min)| <a href="http://www.youtube.com/watch?v=sG8guTwGLEc" target="_blank"><img src="http://img.youtube.com/vi/sG8guTwGLEc/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
 
 
 ## Data Communication
