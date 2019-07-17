@@ -47,6 +47,8 @@ To: http://www.ssyoutube.com/watch?v=uhLS_rEldlY
 ```
 
 ### Resources
+- Download [handout](handout/01-Introduction to Computer Network.pdf) as pdf file
+
 | Topics | Youtube |Quiz | Due Date |
 | :-------------------------- |:--------------------------:| ------------------:|:---:|
 | 1. application of internet (14 min) | <a href="http://www.youtube.com/watch?v=uhLS_rEldlY" target="_blank"><img src="http://img.youtube.com/vi/uhLS_rEldlY/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link | N/A |
