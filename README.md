@@ -47,7 +47,7 @@ To: http://www.ssyoutube.com/watch?v=uhLS_rEldlY
 ```
 
 ### Resources
-- Download (handout)[handout/01-Introduction to Computer Network.pdf] as pdf file
+- Download [handout](#handout/01-Introduction to Computer Network.pdf) as pdf file
 
 | Topics | Youtube |Quiz | Due Date |
 | :-------------------------- |:--------------------------:| ------------------:|:---:|
