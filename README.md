@@ -51,12 +51,12 @@ To: http://www.ssyoutube.com/watch?v=uhLS_rEldlY
 
 | Topics | Youtube |Quiz | Due Date |
 | :-------------------------- |:--------------------------:| ------------------:|:---:|
-| 1. application of internet (14 min) | <a href="http://www.youtube.com/watch?v=uhLS_rEldlY" target="_blank"><img src="http://img.youtube.com/vi/uhLS_rEldlY/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | [Link](https://tinyurl.com/y6hldn36) | N/A |
-| 2. internet (8 min) | <a href="http://www.youtube.com/watch?v=w7RgSf-tjks" target="_blank"><img src="http://img.youtube.com/vi/w7RgSf-tjks/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | [Link](https://tinyurl.com/y2j5xaj2) |  N/A |
-| 3. standard (8 min)| <a href="http://www.youtube.com/watch?v=ysafbkzoBCY" target="_blank"><img src="http://img.youtube.com/vi/ysafbkzoBCY/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | [Link](https://tinyurl.com/y3xlkrd5) |  N/A |
-| 4. network component (10 min)| <a href="http://www.youtube.com/watch?v=Ts6Nsmvko0E" target="_blank"><img src="http://img.youtube.com/vi/Ts6Nsmvko0E/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | [Link](https://tinyurl.com/yy8rgjku) |  N/A |
-| 5. network categoties (15 min)| <a href="http://www.youtube.com/watch?v=LhUbE8GEwv8" target="_blank"><img src="http://img.youtube.com/vi/LhUbE8GEwv8/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
-| 6. network topology (7 min)| <a href="http://www.youtube.com/watch?v=sG8guTwGLEc" target="_blank"><img src="http://img.youtube.com/vi/sG8guTwGLEc/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  N/A |
+| 1. application of internet (14 min) | <a href="http://www.youtube.com/watch?v=uhLS_rEldlY" target="_blank"><img src="http://img.youtube.com/vi/uhLS_rEldlY/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | [Link](https://tinyurl.com/y6hldn36) | Jul 24, 2019 |
+| 2. internet (8 min) | <a href="http://www.youtube.com/watch?v=w7RgSf-tjks" target="_blank"><img src="http://img.youtube.com/vi/w7RgSf-tjks/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | [Link](https://tinyurl.com/y2j5xaj2) | Jul 24, 2019 |
+| 3. standard (8 min)| <a href="http://www.youtube.com/watch?v=ysafbkzoBCY" target="_blank"><img src="http://img.youtube.com/vi/ysafbkzoBCY/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | [Link](https://tinyurl.com/y3xlkrd5) | Jul 24, 2019 |
+| 4. network component (10 min)| <a href="http://www.youtube.com/watch?v=Ts6Nsmvko0E" target="_blank"><img src="http://img.youtube.com/vi/Ts6Nsmvko0E/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | [Link](https://tinyurl.com/yy8rgjku) |  Jul 24, 2019 |
+| 5. network categoties (15 min)| <a href="http://www.youtube.com/watch?v=LhUbE8GEwv8" target="_blank"><img src="http://img.youtube.com/vi/LhUbE8GEwv8/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  Jul 24, 2019 |
+| 6. network topology (7 min)| <a href="http://www.youtube.com/watch?v=sG8guTwGLEc" target="_blank"><img src="http://img.youtube.com/vi/sG8guTwGLEc/0.jpg" alt="IMAGE ALT TEXT HERE" width="24" height="18" border="10" /></a> | Link |  Jul 24, 2019 |
 
 
 ## Data Communication
