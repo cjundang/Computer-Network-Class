@@ -14,7 +14,7 @@ Computer Networks fundamental; networking protocol; standard network model (OSI/
 1. [Basic Network Security Concepts](#basic-network-security-concepts)
 
 ### __Workshop__
-1. Network OS Administration - 5 Hours
+1. [Network OS Administration](workshop/linux.md) - 5 Hours
 1. Micro-services with Docker - 5 Hours
 1. Network Design and Implementation with CISCO devices - 10 Hours
 
