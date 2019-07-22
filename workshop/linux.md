@@ -3,7 +3,7 @@
 - install linux OS
 - understand linux command
 ### __Resources__
-- [Linux Ubuntu Live Server AMD64 ISO file](http://mirrors.bangmod.cloud/ubuntu-release/18.04.1/ubuntu-18.04.1-live-server-amd64.iso)
+- [Linux Ubuntu Live Server AMD64 ISO file](http://mirrors.bangmod.cloud/ubuntu-release/18.04.2/ubuntu-18.04.2-live-server-amd64.iso)
 - [Bash shell cheat sheet](https://learncodethehardway.org/unix/bash_cheat_sheet.pdf)
 - [Linux Toolsboox](http://cb.vu/unixtoolbox.pdf)
 - __Pretest__ [Network OS Administration](https://tinyurl.com/network-os-pretest)
