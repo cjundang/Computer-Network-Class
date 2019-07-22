@@ -26,6 +26,8 @@
 - set name and other information with your infomation
 - finally reboot and login with __username/password__
 
+3. Install Window Linux Subsystem 
+[Link](https://www.maketecheasier.com/install-linux-subsystem-for-windows10)
 ### __Activity 1.2__ : Linux Command
 
 1. User/Admin Linux Command   
