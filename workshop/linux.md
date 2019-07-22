@@ -11,7 +11,7 @@
 ### __Activity 1.1__: Linux Installation
 
 1. Install Linux
-- download the iso file of [Linux Ubuntu Live Server AMD64 ](http://mirrors.bangmod.cloud/ubuntu-release/18.04.1/ubuntu-18.04.1-live-server-amd64.iso)
+- download the iso file of [Linux Ubuntu Live Server AMD64 ](http://mirrors.bangmod.cloud/ubuntu-release/18.04.2/ubuntu-18.04.2-live-server-amd64.iso)
 - download and install virtualbox [link](https://www.virtualbox.org/wiki/Downloads)
 - If your labtop have any virtual machine application such as VMWare, Hyper-V, or parallall desktop, you can use their applications.
 2. Create virtual machine with their specification: [Youtube](https://youtu.be/3gvuz9tD85c?t=35)
