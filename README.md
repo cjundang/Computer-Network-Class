@@ -6,6 +6,7 @@ Computer Networks fundamental; networking protocol; standard network model (OSI/
 2. To design and implement the simple and intermediat netwrok size. 
 
 ### __Topics__
+The handout with lecture note is [here](https://github.com/cjundang/Computer-Network-Class/blob/master/handout/Hand%20Out%20with%20Lecture%20Note%20-%20Computer%20Network.pdf)
 1. [Introduction to computer Network](#introduction-to-computer-network)
 1. [Data Commnication](#data-communication)
 1. [Layer Architecture](#layer-architecture)
