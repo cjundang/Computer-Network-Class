@@ -1,0 +1,181 @@
+Microservices - Docker-compose
+--------------------------------------
+Resources: 
+- https://medium.com/yii2-learning/มาลองสร้าง-lemp-stack-ง่ายๆ-ด้วย-docker-กัน-part2-6692c9c33c5f
+
+4.0 Docker compose
+4.1 Install docker-compose command
+$ sudo apt install docker-compose
+
+This practice demostrace how to create web server via docker-compose
+4.2 Create file structure
+
+lemp_docker
+├── docker-compose.yml
+├── mysql
+│   ├── backup
+│   ├── data
+│   └── initdb
+├── nginx
+│   ├── conf
+│   │   └── nginx.conf
+│   └── conf.d
+│       └── default.conf
+└── www
+    └── index.php
+
+$ mkdir lemp
+$ cd lemp/
+$ mkdir -p mysql/backup
+$ mkdir -p mysql/data  
+$ mkdir -p mysql/initdb
+$ mkdir -p nginx/conf
+$ mkdir -p nginx/conf.d
+$ mkdir -p www         
+
+
+4.3 create docker-compose.yml
+$ nano docker-compose.yml
+
+version: '2'
+services:
+    db:
+        image: mariadb:10.1
+        container_name: lemp_mariadb
+        restart: always
+        volumes:
+        - ./mysql/initdb/:/docker-entrypoint-initdb.d
+        - ./mysql/data/:/var/lib/mysql
+        environment:
+        - MYSQL_ROOT_PASSWORD=123132123
+        - MYSQL_DATABASE=lemp_db
+        - MYSQL_USER=lemp
+        - MYSQL_PASSWORD=123456
+    php:
+        image: php:7-fpm-alpine
+        container_name: lemp_php-fpm
+        restart: always
+        volumes:
+        - ./www/:/var/www/html
+        expose:
+        - "9000"
+    nginx:
+        image: nginx:alpine
+        container_name: lemp_nginx
+        restart: always
+        volumes:
+        - ./nginx/conf/nginx.conf:/etc/nginx/conf/nginx.conf:ro
+        - ./nginx/conf.d:/etc/nginx/conf.d:ro
+        volumes_from:
+        - php
+        ports:
+        - 8081:80
+
+4.4 Create www/index.php
+$ nano www/index.php
+
+<?php phpinfo(); ?>
+
+
+4.5 nginx configure file 
+$ nano nginx/conf/nginx.conf
+
+worker_processes 1;
+daemon off;
+events {
+    worker_connections 1024;
+}
+error_log   /var/log/nginx/error.log warn;
+pid         /var/run/nginx.pid;
+http {
+    include /etc/nginx/conf/mime.types;
+    default_type application/octet-stream;
+    log_format main '$remote_addr - $remote_user [$time_local] "$request" '
+    '$status $body_bytes_sent "$http_referer" '
+    '"$http_user_agent" "$http_x_forwarded_for"';
+    access_log /var/log/nginx/access.log main;
+    sendfile on;
+    #tcp_nopush on;
+    keepalive_timeout 65;
+    gzip on;
+    gzip_disable "msie6";
+    gzip_vary on;
+    gzip_proxied any;
+    gzip_comp_level 6;
+    gzip_buffers 16 8k;
+    gzip_http_version 1.1;
+    gzip_types text/plain text/css application/json application/x-javascript text/xml application/xml application/xml+rss text/javascript;
+    # tells the server to use on-the-fly gzip compression.
+    include /etc/nginx/conf.d/*.conf;
+}
+
+4.6 nginx configure file 
+$ nano nginx/conf.d/default.conf
+
+server {
+   charset utf-8;
+   client_max_body_size 128M;
+listen 80; ## listen for ipv4
+   #listen [::]:80 default_server ipv6only=on; ## listen for ipv6
+#server_name app-frontend.dev;
+   root /var/www/html;
+   index       index.php;
+location / {
+       # Redirect everything that isn't a real file to index.php
+       try_files $uri $uri/ /index.php$is_args$args;
+   }
+# uncomment to avoid processing of calls to non-existing static files by Yii
+   #location ~ \.(js|css|png|jpg|gif|swf|ico|pdf|mov|fla|zip|rar)$ {
+   #    try_files $uri =404;
+   #}
+   #error_page 404 /404.html;
+location ~ \.php$ {
+       include fastcgi_params;
+       fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+       fastcgi_pass   php:9000;
+       try_files $uri =404;
+   }
+location ~ /\.(ht|svn|git) {
+       deny all;
+   }
+}
+
+5.0 Docker-compose command 
+5.1 To create docker-compose process 
+$ sudo chown root:root docker-compose.yml
+$ docker-compose up -d
+
+5.2 To start docker-compose process 
+$ docker-compose start
+
+5.3 To monitor docker process 
+$ docker-compose ps 
+
+5.4 To remote via ssh
+$ docker-compose exec nginx sh
+
+5.5 To stop service
+$ docker-compose stop
+
+5.6 To monitor via log
+$ docker-compose logs
+
+6.0 Backup MySQL Database 
+$ docker exec lemp_mariadb sh -c 'exec mysqldump -uroot -p"$MYSQL_ROOT_PASSWORD" --databases $MYSQL_DATABASE' > "./mysql/backup/backup.sql"
+$ cat ./mysql/backup/backup.sql
+
+7.0 Add phpmyadmin
+7.1 Modify docker-compose.yml, append with this code
+$ nano docker-compose.yml
+    pma:
+        image: phpmyadmin/phpmyadmin
+        container_name: lemp-phpmyadmin
+        restart: always
+        ports:
+        - 8000:80
+
+7.2 Start service
+$ docker-compose up -d 
+
+7.3 show status
+$ docker-compose ps 

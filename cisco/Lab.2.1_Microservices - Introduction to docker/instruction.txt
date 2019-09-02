@@ -1,0 +1,94 @@
+Microservices - Introduction to docker
+--------------------------------------
+Resources: 
+- https://medium.com/thothzocial-engineering/ทำความรู้จัก-docker-และการใช้งานเบื้องต้น-4ccc7b315ff3
+- https://medium.com/thothzocial-engineering/ทำความรู้จัก-docker-และ-software-container-c6338629da11
+- https://medium.com/@surasakphothiphiphit/รวม-docker-command-line-พื้นฐาน-74b61101effa
+- https://docker-curriculum.com
+
+1.0 install docker-ce on linux
+- preparation 
+$ sudo apt-get remove docker docker-engine docker.io
+$ sudo apt-get update
+$ sudo apt-get install apt-transport-https ca-certificates curl software-properties-common
+$ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+$ sudo apt-key fingerprint 0EBFCD88
+$ sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
+$ sudo apt-get update
+
+- install docker
+$ sudo apt-get install docker-ce
+
+- version checking
+$ docker -v
+$ docker version 
+$ sudo docker version 
+
+
+- test command 
+$ sudo docker run hello-world
+
+
+2.0 create container
+
+Format: 
+    docker run --name demo -d -p 8080:80 -v /home/me:/home/docker image
+
+where,
+--name demo : demo is container name that use for start, stop, remove conatainer 
+-d : to force container running in backgrounf
+-v /home/me:/home/docker :  mount volume between host and docker  
+-p 8080:80 : map port between port in host os and container 
+image : image name 
+
+$ sudo docker run --name myweb -p 8080:80 -v myweb:/var/www/html -d nginx
+
+3.0 docker basic command 
+- change to root privilegded
+$ sudo -s
+password: <your password>
+
+- To show docker version
+$ docker version
+
+- To show pulled image in system
+$ docker images
+
+- To show running container 
+$ docker ps 
+
+- To show running and stopped conatainer
+$ docker ps -a
+
+- To start container with image id 
+$ docker start [conatainer name]
+
+- To stop container with image id 
+$ docker stop [conatainer name]
+
+- To delete container with image id 
+$ docker rm [conatainer name]
+
+- To delete image with image id 
+$ docker rmi [image id]
+
+3.0 create new container from docker hub
+3.1 change folder to home 
+$ cd ~ 
+
+3.2 create www folder 
+$ mkdir www
+$ nano www/index.html
+    Hello docker
+
+3.3 pull nginx container from docker hub 
+$ docker pull nginx
+
+3.4 run nginx container 
+$ docker run -d -v ~/www:/usr/share/nginx/html -p 1234:80 nginx
+
+3.5 test via google chrome or any web brower access via ip (for this lab access via 192.168.56.101)
+http://192.168.56.101:1234
+
+ 
+

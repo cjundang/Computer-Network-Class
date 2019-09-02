@@ -1,0 +1,249 @@
+Network OS Admin
+++++++++++++++++
+Aims: install linux OS, use user command
+Document 
+- http://mirrors.bangmod.cloud/ubuntu-release/18.04.1/ubuntu-18.04.1-live-server-amd64.iso
+- https://learncodethehardway.org/unix/bash_cheat_sheet.pdf
+- http://cb.vu/unixtoolbox.pdf
+- https://tinyurl.com/pre-test-network-os
+
+1. Install Linux
+- download and install virtualbox
+    - create VM: 1024GB RAM, 16 GB Disk as dynamic growth, a NIC card with NAT and a NIC card with Host only
+- download and install ubuntu
+    - install ubuntu 
+    - set username/password to demo/demo
+    - set name and other information with your infomation
+    - finally reboot and login with username/password
+
+2. User/Admin Linux Command   
+- login via console
+- check ip address
+    $ ifconfig
+        --> 192.168.56.101
+    $ ip a 
+
+- start putty.exe and select ssh or assign IP address 192.168.56.101 port 22
+ 
+Activity 2.1 
+------------
++ Login as demo (password is demo)
++ Find the present Directory
+$
+
++ Write the / directory structure
+$
+
++ Write a few commands available in /bin and /sbin directory
+$
+
++ Find the demo directory
+$
+
++ Write the permissions of demo directory
+$
+
+
++ Create a new Directory test in demo directory
+$
+
+
++ Write the permissions of test directory
+$
+
+
++ Copy the file /etc/resolv.conf in test directory
+$
+
+
++ Rename the test directory to testing
+$
+
+
++ Delete the testing directory
+$
+
+
++ Change the permissions of guest directory to 775
+$
+
+
++ Change the permissions of /tmp directory to 700
+$
+
+
++ chane to root permission user
+$
+
+
++ Change the permissions of guest directory to 700
+$
+
+
++ The location of kernel files in Unix File System is /boot and by looking at the kernel file, write the kernel version you are using in your system.
+$
+
+
++ Login as demo
+$
+
+
++ Change directory to /
+$
+
+
++ List the contents of /home directory
+$
+
+
++ Find the group to which demo belongs
+$
+
+
++ Create a file sidbi in the home area of demo (hint: use touch command)
+$
+
+
++ Find the permissions of the file sidbi
+$
+
+
++ Find the inode number of file sidbi (hint: ls –li)
+$
+
+
++ Copy the file sidbi to sidbi1
+$
+
+
++ Find the inode number of file sidbi1 (hint: ls –li)
+$
+
+
++ Move the file sidbi to sidbi2
+$
+
+
++ Find the inode number of file sidbi2 (hint: ls –li)
+$
+
+
++ Move sidbi2 to sidbi
+$
+
+
++ Login as root
+$
+
+
++ Create a new user guest1 with same group as guest  
+$
+
+
++ Create a new user guest2 with a different group than the group of guest  
+$
+
+
++ Find, what permissions should the file sidbi have, so that both guest1 and guest2 can write into this file.
+$
+
+
+
+Activity 2.2
+------------
++ Login as demo (password is demo)
++ Change your shell to sh
+$
+
+
++ Write a shell script and shell1.sh (using nano editor) to create a directory test in your area and copy the contents of /etc in test directory.
+$
+
+
++ Move the contents of test directory in test1 directory
+$
+
+
++ Copy the test1 directory in /tmp
+$
+
+
++ Write, the date of Creation/Modification, ownership, group and permissions of test1 directory
+$
+
+
++ Tar and gzip the contents of test1.
+$
+
+
++ Move the test1.tgz into your area and Untar it 
+$
+
+
++ Write the names of all the files in test1 directory and its subdirectories which have as in their name into a file asname 
+$
+
+
++ Delete the test1 directory using rm command and see if you find it in Trash
+$
+
+
++ Use find command and locate command to find the location of  passwd command 
+$
+
+
++ Find out the number of commands in /bin
+$
+
+
++ Create a command to create new users (Use useradd command. See the man page of useradd for command options). Use chmod to give it appropriate permission so that only guest user can run this command
+$
+
+
++ Compute the MD5 Checksum of kernel fileusing tar 
+$
+
+
++ Check the date and time of the system. Advance the date by one day and time by 1 hour.
+$
+
+
++ Find out the disk usage of /etc directory.
+$
+
+
++ Find the hostname and domain name of the system.
+$
+
+
++ Find the CPU and Memory utilization of the system.
+$
+
+
++ Find the PID of the Process which is consuming maximum CPU
+$
+
+
++ Shutdown the system with warning to users.
+$
+
+
++ Find out the disk usage (du) of / directory and compare it with the usage of / partition (df)
+$
+
+
+$
+
+
++ traceroute to www.google.com and try to find out how many routers are there between your machine and google server
+$
+
+
++ Shutdown your machine and then poweroff (after starting it again) your machine. Do you see a difference between the two
+$
+
+
+
+
+3. Shell Script following this link http://linuxcommand.org/lc3_writing_shell_scripts.php
+
